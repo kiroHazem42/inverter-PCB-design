@@ -1,0 +1,227 @@
+Added Component: Designator=J1(CONN_SMALL)
+Added Component: Designator=J2(CONN_SMALL)
+Added Component: Designator=J3(CONN_SMALL)
+Added Component: Designator=J4(CONN_SMALL)
+Added Component: Designator=J5(CONN_SMALL)
+Added Component: Designator=J6(CONN_SMALL)
+Added Component: Designator=J7(CONN_SMALL)
+Added Component: Designator=J8(CONN_SMALL)
+Added Component: Designator=J9(CONN_SMALL)
+Added Component: Designator=J10(CONN_SMALL)
+Added Component: Designator=J11(CONN_SMALL)
+Added Component: Designator=J12(CONN_SMALL)
+Added Component: Designator=J13(CONN_SMALL)
+Added Component: Designator=J14(CONN_SMALL)
+Added Component: Designator=J15(CONN_SMALL)
+Added Component: Designator=J16(CONN_SMALL)
+Added Component: Designator=J17(CONN_SMALL)
+Added Component: Designator=J18(CONN_SMALL)
+Added Component: Designator=J19(CONN_SMALL)
+Added Component: Designator=J20(CONN_SMALL)
+Added Component: Designator=J21(CONN_SMALL)
+Added Component: Designator=J22(CONN_SMALL)
+Added Component: Designator=J23(CONN_SMALL)
+Added Component: Designator=J24(CONN_SMALL)
+Added Component: Designator=J25(CONN_SMALL)
+Added Component: Designator=J*1(CONN_SMALL)
+Added Component: Designator=Q1(IPB180N04S401)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.infineon.com/dgdl/Infineon-IPB180N04S4_01-DS-v01_00-en.pdf?fileId=db3a304328c6bd5c01291c432c5d5d67"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IPB180N04S4-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "726-IPB180N04S4-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPB180N04S4-01?qs=HwMeRNENlMacaRTn%252BkmAXA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(IPB180N04S401)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.infineon.com/dgdl/Infineon-IPB180N04S4_01-DS-v01_00-en.pdf?fileId=db3a304328c6bd5c01291c432c5d5d67"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IPB180N04S4-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "726-IPB180N04S4-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPB180N04S4-01?qs=HwMeRNENlMacaRTn%252BkmAXA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(IPB180N04S401)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.infineon.com/dgdl/Infineon-IPB180N04S4_01-DS-v01_00-en.pdf?fileId=db3a304328c6bd5c01291c432c5d5d67"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IPB180N04S4-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "726-IPB180N04S4-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPB180N04S4-01?qs=HwMeRNENlMacaRTn%252BkmAXA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(IPB180N04S401)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.infineon.com/dgdl/Infineon-IPB180N04S4_01-DS-v01_00-en.pdf?fileId=db3a304328c6bd5c01291c432c5d5d67"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IPB180N04S4-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "726-IPB180N04S4-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPB180N04S4-01?qs=HwMeRNENlMacaRTn%252BkmAXA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(IPB180N04S401)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.infineon.com/dgdl/Infineon-IPB180N04S4_01-DS-v01_00-en.pdf?fileId=db3a304328c6bd5c01291c432c5d5d67"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IPB180N04S4-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "726-IPB180N04S4-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPB180N04S4-01?qs=HwMeRNENlMacaRTn%252BkmAXA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(IPB180N04S401)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.infineon.com/dgdl/Infineon-IPB180N04S4_01-DS-v01_00-en.pdf?fileId=db3a304328c6bd5c01291c432c5d5d67"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IPB180N04S4-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "726-IPB180N04S4-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPB180N04S4-01?qs=HwMeRNENlMacaRTn%252BkmAXA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q7(IPB180N04S401)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.infineon.com/dgdl/Infineon-IPB180N04S4_01-DS-v01_00-en.pdf?fileId=db3a304328c6bd5c01291c432c5d5d67"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IPB180N04S4-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "726-IPB180N04S4-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPB180N04S4-01?qs=HwMeRNENlMacaRTn%252BkmAXA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q8(IPB180N04S401)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.infineon.com/dgdl/Infineon-IPB180N04S4_01-DS-v01_00-en.pdf?fileId=db3a304328c6bd5c01291c432c5d5d67"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IPB180N04S4-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "726-IPB180N04S4-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPB180N04S4-01?qs=HwMeRNENlMacaRTn%252BkmAXA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q9(IPB180N04S401)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.infineon.com/dgdl/Infineon-IPB180N04S4_01-DS-v01_00-en.pdf?fileId=db3a304328c6bd5c01291c432c5d5d67"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IPB180N04S4-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "726-IPB180N04S4-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPB180N04S4-01?qs=HwMeRNENlMacaRTn%252BkmAXA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC1608X06N)
+Add component (AddParameter): Name = "Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC1608X06N)
+Add component (AddParameter): Name = "Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC1608X06N)
+Add component (AddParameter): Name = "Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found WSL27261L000FEA
+Add Component: Footprint Not Found WSL27261L000FEA
+Added Pin To Net: NetName=PD_B Pin=J1-1
+Added Pin To Net: NetName=PD_A Pin=J2-1
+Added Pin To Net: NetName=VCC_2 Pin=J3-1
+Added Pin To Net: NetName=VCC_1 Pin=J4-1
+Added Pin To Net: NetName=VCC_2 Pin=J5-1
+Added Pin To Net: NetName=PD_C Pin=J6-1
+Added Pin To Net: NetName=A_H Pin=J7-1
+Added Pin To Net: NetName=B_H Pin=J8-1
+Added Pin To Net: NetName=C_H Pin=J9-1
+Added Pin To Net: NetName=A_COM Pin=J10-1
+Added Pin To Net: NetName=NetJ11_1 Pin=J11-1
+Added Pin To Net: NetName=NetJ12_1 Pin=J12-1
+Added Pin To Net: NetName=C_COM Pin=J13-1
+Added Pin To Net: NetName=NetJ14_1 Pin=J14-1
+Added Pin To Net: NetName=A_L Pin=J15-1
+Added Pin To Net: NetName=B_L Pin=J16-1
+Added Pin To Net: NetName=CL Pin=J17-1
+Added Pin To Net: NetName=B_S_L Pin=J18-1
+Added Pin To Net: NetName=C_S_L Pin=J19-1
+Added Pin To Net: NetName=S1_N Pin=J20-1
+Added Pin To Net: NetName=S2_N Pin=J21-1
+Added Pin To Net: NetName=S1_P Pin=J22-1
+Added Pin To Net: NetName=S2_P Pin=J23-1
+Added Pin To Net: NetName=C_S_L Pin=J24-1
+Added Pin To Net: NetName=GND_1 Pin=J25-1
+Added Pin To Net: NetName=GND_2 Pin=J*1-1
+Added Pin To Net: NetName=A_H Pin=Q1-1
+Added Pin To Net: NetName=VCC_1 Pin=Q1-4
+Added Pin To Net: NetName=A_COM Pin=Q1-5
+Added Pin To Net: NetName=B_H Pin=Q2-1
+Added Pin To Net: NetName=VCC_2 Pin=Q2-4
+Added Pin To Net: NetName=B_COM Pin=Q2-5
+Added Pin To Net: NetName=C_H Pin=Q3-1
+Added Pin To Net: NetName=VCC_2 Pin=Q3-4
+Added Pin To Net: NetName=PD_A Pin=Q4-1
+Added Pin To Net: NetName=NetJ11_1 Pin=Q4-4
+Added Pin To Net: NetName=A_COM Pin=Q4-5
+Added Pin To Net: NetName=PD_B Pin=Q5-1
+Added Pin To Net: NetName=NetJ12_1 Pin=Q5-4
+Added Pin To Net: NetName=B_COM Pin=Q5-5
+Added Pin To Net: NetName=PD_C Pin=Q6-1
+Added Pin To Net: NetName=NetJ14_1 Pin=Q6-4
+Added Pin To Net: NetName=A_L Pin=Q7-1
+Added Pin To Net: NetName=A_COM Pin=Q7-4
+Added Pin To Net: NetName=A_S_L Pin=Q7-5
+Added Pin To Net: NetName=B_L Pin=Q8-1
+Added Pin To Net: NetName=B_COM Pin=Q8-4
+Added Pin To Net: NetName=B_S_L Pin=Q8-5
+Added Pin To Net: NetName=CL Pin=Q9-1
+Added Pin To Net: NetName=C_COM Pin=Q9-4
+Added Pin To Net: NetName=C_S_L Pin=Q9-5
+Added Pin To Net: NetName=A_COM Pin=R1-1
+Added Pin To Net: NetName=PD_A Pin=R1-2
+Added Pin To Net: NetName=B_COM Pin=R2-1
+Added Pin To Net: NetName=PD_B Pin=R2-2
+Added Pin To Net: NetName=C_COM Pin=R3-1
+Added Pin To Net: NetName=PD_C Pin=R3-2
+Add Pin To Net: Unknown Pin: Pin RS1-1
+Add Pin To Net: Unknown Pin: Pin RS1-2
+Add Pin To Net: Unknown Pin: Pin RS1-3
+Add Pin To Net: Unknown Pin: Pin RS1-4
+Add Pin To Net: Unknown Pin: Pin RS2-1
+Add Pin To Net: Unknown Pin: Pin RS2-2
+Add Pin To Net: Unknown Pin: Pin RS2-3
+Add Pin To Net: Unknown Pin: Pin RS2-4
+Added Member To Class: ClassName=Sheet4 Member=Component J1 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J2 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J3 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J4 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J5 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J6 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J7 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J8 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J9 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J10 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J11 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J12 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J13 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J14 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J15 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J16 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J17 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J18 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J19 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J20 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J21 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J22 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J23 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J24 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J25 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J*1 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component Q1 IPB180N04S4-01
+Added Member To Class: ClassName=Sheet4 Member=Component Q2 IPB180N04S4-01
+Added Member To Class: ClassName=Sheet4 Member=Component Q3 IPB180N04S4-01
+Added Member To Class: ClassName=Sheet4 Member=Component Q4 IPB180N04S4-01
+Added Member To Class: ClassName=Sheet4 Member=Component Q5 IPB180N04S4-01
+Added Member To Class: ClassName=Sheet4 Member=Component Q6 IPB180N04S4-01
+Added Member To Class: ClassName=Sheet4 Member=Component Q7 IPB180N04S4-01
+Added Member To Class: ClassName=Sheet4 Member=Component Q8 IPB180N04S4-01
+Added Member To Class: ClassName=Sheet4 Member=Component Q9 IPB180N04S4-01
+Added Member To Class: ClassName=Sheet4 Member=Component R1 R
+Added Member To Class: ClassName=Sheet4 Member=Component R2 R
+Added Member To Class: ClassName=Sheet4 Member=Component R3 R
+Add Class Member: Failed to add class member : Component RS1 WSLP2726L5000FEA
+Add Class Member: Failed to add class member : Component RS2 WSLP2726L5000FEA
+Added Room: Name=Sheet4

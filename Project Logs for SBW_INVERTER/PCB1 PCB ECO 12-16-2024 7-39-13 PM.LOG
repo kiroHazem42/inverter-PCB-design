@@ -1,0 +1,28 @@
+Added Component: Designator=RS1(WSL27261L000FEA)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "WSLP2726L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wslp2726l5000fea/vishay?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/30179/wslp2726.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSLP2726L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-WSLP2726L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSLP2726L5000FEA?qs=H%252BW4FWGGyHeDwweg1TYd4Q%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=RS2(WSL27261L000FEA)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "WSLP2726L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wslp2726l5000fea/vishay?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/30179/wslp2726.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSLP2726L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-WSLP2726L5000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSLP2726L5000FEA?qs=H%252BW4FWGGyHeDwweg1TYd4Q%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_1 Pin=RS1-1
+Added Pin To Net: NetName=A_S_L Pin=RS1-2
+Added Pin To Net: NetName=S1_P Pin=RS1-3
+Added Pin To Net: NetName=S1_N Pin=RS1-4
+Added Pin To Net: NetName=GND_2 Pin=RS2-1
+Added Pin To Net: NetName=B_S_L Pin=RS2-2
+Added Pin To Net: NetName=S2_P Pin=RS2-3
+Added Pin To Net: NetName=S2_N Pin=RS2-4
+Added Member To Class: ClassName=Sheet4 Member=Component RS1 WSLP2726L5000FEA
+Added Member To Class: ClassName=Sheet4 Member=Component RS2 WSLP2726L5000FEA

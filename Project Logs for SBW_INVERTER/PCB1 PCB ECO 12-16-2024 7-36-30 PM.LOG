@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=A_S_L Pin=J18-1
+Removed Pin From Net: NetName=C_S_L Pin=J25-1
+Removed Pin From Net: NetName=C_S_L Pin=J*1-1
+Removed Pin From Net: NetName=C_COM Pin=Q3-5
+Removed Pin From Net: NetName=C_COM Pin=Q6-5
+Removed Pin From Net: NetName=A_S_L Pin=Q8-5
+Change Component Footprint: Designator=J3 Old Footprint=CON_BIG New Footprint=CONN_SMALL
+Change Component Footprint: Designator=J4 Old Footprint=CON_BIG New Footprint=CONN_SMALL
+Change Component Footprint: Designator=J5 Old Footprint=CON_BIG New Footprint=CONN_SMALL
+Change Component Footprint: Designator=J11 Old Footprint=CON_BIG New Footprint=CONN_SMALL
+Change Component Footprint: Designator=J12 Old Footprint=CON_BIG New Footprint=CONN_SMALL
+Change Component Footprint: Designator=J14 Old Footprint=CON_BIG New Footprint=CONN_SMALL
+Change Component Footprint: Designator=J24 Old Footprint=CON_BIG New Footprint=CONN_SMALL
+Change Component Footprint: Designator=J25 Old Footprint=CON_BIG New Footprint=CONN_SMALL
+Change Component Footprint: Designator=J*1 Old Footprint=CON_BIG New Footprint=CONN_SMALL
+Add Component: Footprint Not Found WSL27261L000FEA
+Add Component: Footprint Not Found WSL27261L000FEA
+Add Pin To Net: Unknown Pin: Pin RS1-2
+Add Pin To Net: Unknown Pin: Pin RS1-3
+Add Pin To Net: Unknown Pin: Pin RS1-4
+Add Pin To Net: Unknown Pin: Pin RS2-3
+Add Pin To Net: Unknown Pin: Pin RS2-4
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=PD_B
+Change Net Name : Old Net Name=NetJ6_1 New Net Name=PD_C
+Added Pin To Net: NetName=B_S_L Pin=J18-1
+Added Pin To Net: NetName=B_S_L Pin=Q8-5
+Added Net: Name=B_S_L
+Added Pin To Net: NetName=GND_1 Pin=J25-1
+Added Net: Name=GND_1
+Added Pin To Net: NetName=GND_2 Pin=J*1-1
+Added Net: Name=GND_2
+Add Class Member: Failed to add class member : Component RS1 WSLP2726L5000FEA
+Add Class Member: Failed to add class member : Component RS2 WSLP2726L5000FEA

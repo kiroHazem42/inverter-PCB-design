@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VCC_2 Pin=J3-1
+Removed Pin From Net: NetName=VCC_2 Pin=Q3-4
+Removed Pin From Net: NetName=A_S_L Pin=Q7-5
+Removed Pin From Net: NetName=GND_1 Pin=RS1-1
+Removed Pin From Net: NetName=A_S_L Pin=RS1-2
+Removed Pin From Net: NetName=S1_P Pin=RS1-3
+Removed Pin From Net: NetName=S1_N Pin=RS1-4
+Change Component Designator: OldDesignator=J1 NewDesignator=J26
+Added Pin To Net: NetName=A_S_L Pin=RS1-1
+Added Pin To Net: NetName=GND_1 Pin=RS1-2
+Added Pin To Net: NetName=S1_N Pin=RS1-3
+Added Pin To Net: NetName=S1_P Pin=RS1-4
+Added Pin To Net: NetName=VCC_3 Pin=J3-1
+Added Pin To Net: NetName=VCC_3 Pin=Q3-4
+Added Net: Name=VCC_3
+Added Member To Class: ClassName=Sheet4 Member=Component J26 CON_SMD_SMALL
+Added Room: Name=Sheet4

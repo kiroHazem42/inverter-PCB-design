@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=J3 Old Footprint=CON_BIG New Footprint=CONN_SMALL
+Change Component Footprint: Designator=J4 Old Footprint=CON_BIG New Footprint=CONN_SMALL
+Change Component Footprint: Designator=J5 Old Footprint=CON_BIG New Footprint=CONN_SMALL
+Change Component Footprint: Designator=J11 Old Footprint=CON_BIG New Footprint=CONN_SMALL
+Change Component Footprint: Designator=J12 Old Footprint=CON_BIG New Footprint=CONN_SMALL
+Change Component Footprint: Designator=J14 Old Footprint=CON_BIG New Footprint=CONN_SMALL
+Change Component Footprint: Designator=J24 Old Footprint=CON_BIG New Footprint=CONN_SMALL
+Change Component Footprint: Designator=J25 Old Footprint=CON_BIG New Footprint=CONN_SMALL
+Change Component Footprint: Designator=J26 Old Footprint=CON_BIG New Footprint=CONN_SMALL
+Added Room: Name=Sheet4

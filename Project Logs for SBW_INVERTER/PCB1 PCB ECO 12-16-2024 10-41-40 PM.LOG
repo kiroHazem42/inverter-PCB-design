@@ -1,0 +1,4 @@
+Added Component: Designator=J28(CONN_SMALL)
+Added Pin To Net: NetName=A_S_L Pin=J28-1
+Added Member To Class: ClassName=Sheet4 Member=Component J28 CON_SMD_SMALL
+Added Room: Name=Sheet4

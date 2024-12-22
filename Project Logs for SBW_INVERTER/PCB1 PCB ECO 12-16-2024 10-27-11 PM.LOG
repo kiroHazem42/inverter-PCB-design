@@ -1,0 +1,15 @@
+Added Component: Designator=J27(CONN_SMALL)
+Added Component: Designator=Q10(IPB240N04S4R9ATMA1)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "IRFS3107-7PPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/irfs3107-7ppbf/infineon-technologies-ag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.infineon.com/dgdl/irfs3107-7ppbf.pdf?fileId=5546d462533600a401535636518c2152"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IRFS3107-7PPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "942-IRFS3107-7PPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=942-IRFS3107-7PPBF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=B_COM Pin=J27-1
+Added Member To Class: ClassName=Sheet4 Member=Component J1 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component J27 CON_SMD_SMALL
+Added Member To Class: ClassName=Sheet4 Member=Component Q10 IRFS3107-7PPBF
+Added Room: Name=Sheet4

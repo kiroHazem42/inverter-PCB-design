@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=Sheet4 Member=J*1
+Change Component Footprint: Designator=J3 Old Footprint=CONN_SMALL New Footprint=CON_BIG
+Change Component Footprint: Designator=J4 Old Footprint=CONN_SMALL New Footprint=CON_BIG
+Change Component Footprint: Designator=J5 Old Footprint=CONN_SMALL New Footprint=CON_BIG
+Change Component Footprint: Designator=J11 Old Footprint=CONN_SMALL New Footprint=CON_BIG
+Change Component Footprint: Designator=J12 Old Footprint=CONN_SMALL New Footprint=CON_BIG
+Change Component Footprint: Designator=J14 Old Footprint=CONN_SMALL New Footprint=CON_BIG
+Change Component Footprint: Designator=J24 Old Footprint=CONN_SMALL New Footprint=CON_BIG
+Change Component Footprint: Designator=J25 Old Footprint=CONN_SMALL New Footprint=CON_BIG
+Change Component Footprint: Designator=J*1 Old Footprint=CONN_SMALL New Footprint=CON_BIG
+Change Component Designator: OldDesignator=J*1 NewDesignator=J1
+Added Member To Class: ClassName=Sheet4 Member=Component J1 CON_SMD_SMALL
+Added Room: Name=Sheet4
